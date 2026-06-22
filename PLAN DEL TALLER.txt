@@ -35,7 +35,7 @@ PARTE 2: CLONAR EL REPOSITORIO
 El docente crea el repositorio en GitHub al comienzo del taller.
 Cada participante lo clona en su PC con:
 
-    git clone https://github.com/ComunidadFiuba/taller-hola-mundo
+    git clone https://github.com/centrograduadosFIUBA/tallerHM.git
 
 Esto descarga una copia del proyecto en su computadora.
 

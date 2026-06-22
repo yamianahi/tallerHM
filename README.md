@@ -14,7 +14,7 @@ Este repositorio es el espacio compartido del taller. Cada participante hace su 
 ## Cómo contribuir
 
 ```bash
-git clone https://github.com/ComunidadFiuba/taller-hola-mundo
+git clone https://github.com/centrograduadosFIUBA/tallerHM.git
 # ... hacé tu cambio ...
 git add .
 git commit -m "Mi primer aporte al taller"
